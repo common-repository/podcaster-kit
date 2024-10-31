@@ -1,0 +1,189 @@
+# Copyright (C) 2020 Podcaster Kit
+# This file is distributed under the same license as the Podcaster Kit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Podcaster Kit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-pk-admin-editor.php:20, includes/class-pk-admin-editor.php:46
+msgid "Add podcast"
+msgstr "Добавить подкаст"
+
+#: includes/class-pk-admin-editor.php:47
+msgid "Remove podcast"
+msgstr "Удалить подкаст"
+
+#: includes/class-pk-admin-editor.php:48,
+#: includes/class-pk-frontend-player.php:29
+msgid "Backward for 15 seconds"
+msgstr "Назад на 15 секунд"
+
+#: includes/class-pk-admin-editor.php:49,
+#: includes/class-pk-frontend-player.php:30
+msgid "Play"
+msgstr "Слушать"
+
+#: includes/class-pk-admin-editor.php:50,
+#: includes/class-pk-frontend-player.php:31
+msgid "Pause"
+msgstr "Пауза"
+
+#: includes/class-pk-admin-editor.php:51,
+#: includes/class-pk-frontend-player.php:32
+msgid "Forward for 60 seconds"
+msgstr "Вперед на 60 секунд"
+
+#: includes/class-pk-admin-editor.php:52,
+#: includes/class-pk-frontend-player.php:33
+msgid "Change audio speed"
+msgstr "Изменить скорость аудио"
+
+#: includes/class-pk-admin-editor.php:53,
+#: includes/class-pk-frontend-player.php:34
+msgid "Change audio volume"
+msgstr "Изменить громкость аудио"
+
+#: includes/class-pk-admin-editor.php:54
+msgid "Copy bookmark shortcode to clipboard"
+msgstr "Скопировать шоткод закладки в буфер обмена"
+
+#: includes/class-pk-admin-editor.php:54
+msgid "Add bookmark shortcode under cursor"
+msgstr "Добавить шоткод закладки под курсором"
+
+#: includes/class-pk-admin-editor.php:55
+msgid "Lock podcast"
+msgstr "Закрыть подкаст"
+
+#: includes/class-pk-admin-editor.php:56
+msgid "Unlock podcast"
+msgstr "Открыть подкаст"
+
+#: includes/class-pk-admin-editor.php:75, includes/class-pk-admin-editor.php:77
+msgid "Podcast"
+msgstr "Подкаст"
+
+#: includes/class-pk-admin-editor.php:104,
+#: includes/class-pk-admin-editor.php:106
+msgid "Podcast locked"
+msgstr "Подкаст закрыт"
+
+#: includes/class-pk-admin-editor.php:108,
+#: includes/class-pk-admin-editor.php:110
+msgid "Podcast unlocked"
+msgstr "Подкаст открыт"
+
+#: includes/class-pk-admin-editor.php:114,
+#: includes/class-pk-admin-editor.php:114
+msgid "Podcast is not set"
+msgstr "Подкаст не установлен"
+
+#: includes/class-pk-admin-options.php:49
+msgid "Select lock audio"
+msgstr "Выбрать аудио"
+
+#: includes/class-pk-admin-options.php:50
+msgid "About plugin"
+msgstr "О плагине"
+
+#: includes/class-pk-admin-options.php:51
+msgid "Monetization"
+msgstr "Монетизация"
+
+#: includes/class-pk-admin-options.php:52
+msgid "Plugin website"
+msgstr "Вебсайт плагина"
+
+#: includes/class-pk-admin-options.php:53
+msgid ""
+"To configure the rules, you need to install <a href=\"https://"
+"easydigitaldownloads.com/\">Easy Digital Downloads</a> plugin and configure "
+"at least one product."
+msgstr ""
+"Чтобы настроить правила, Вам нужно установить <a href=\"https://"
+"easydigitaldownloads.com/\">Easy Digital Downloads</a> плагин и настроить "
+"хотя бы один продукт."
+
+#: includes/class-pk-admin-options.php:54
+msgid "Podcast access rules after payment"
+msgstr "Правила доступа к подкасту после оплаты"
+
+#: includes/class-pk-admin-options.php:55
+msgid ""
+"Here you can configure which categories with locked podcasts your visitors "
+"will have access after payment. If any category is not selected in any "
+"product, its locked podcasts will be available to all logged in users!"
+msgstr ""
+"Тут Вы можете настроить какие категории с закрытыми подкастами будут "
+"доступны посетителю после оплаты. Если какая либо категория не выбрана ни в "
+"одном продукте, то ее закрытые подкасты будут доступны всем авторизованным "
+"посетителям!"
+
+#: includes/class-pk-admin-options.php:56
+msgid "days"
+msgstr "дней"
+
+#: includes/class-pk-admin-options.php:57
+msgid "To categories"
+msgstr "К категориям"
+
+#: includes/class-pk-admin-options.php:58
+msgid "Audio message for locked podcast part"
+msgstr "Аудио сообщение для закрытой части подкаста"
+
+#: includes/class-pk-admin-options.php:59
+msgid ""
+"The visitor will hear it when he tries to listen to the locked part of the "
+"podcast."
+msgstr ""
+"Посетитель услышит его когда попытается послушать закрытую часть подкаста."
+
+#: includes/class-pk-admin-options.php:60
+msgid "Add lock audio"
+msgstr "Добавить аудио"
+
+#: includes/class-pk-admin-options.php:61
+msgid "Remove lock audio"
+msgstr "Удалить аудио"
+
+#: includes/class-pk-admin-options.php:62
+msgid "Text message for the locked part of podcast summary"
+msgstr "Текстовое сообщение для закрытой части резюме подкаста"
+
+#: includes/class-pk-admin-options.php:63
+msgid ""
+"The visitor will see it instead of the locked part of the podcast summary."
+msgstr "Посетитель увидит его вместо закрытой части резюме подкаста."
+
+#: includes/class-pk-admin-options.php:64
+msgid "Save options"
+msgstr "Сохранить настройки"
+
+#: includes/class-pk-admin-options.php:75
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У Вас недостаточно прав для просмотра этой страницы."
+
+#: includes/class-pk-frontend-player.php:28
+msgid "Jump to summary bookmark"
+msgstr "Перейти к закладке в резюме"
+
+#: includes/class-pk-frontend-player.php:240
+msgid "Play from"
+msgstr "Слушать с"
